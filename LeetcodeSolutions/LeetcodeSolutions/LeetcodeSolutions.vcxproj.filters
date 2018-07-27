@@ -13,12 +13,18 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Helpers">
+      <UniqueIdentifier>{fc692568-e56a-4764-8e2c-438f2baff05f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TwoSum.cpp">
+    <ClCompile Include="SharedHelper.cpp">
+      <Filter>Source Files\Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="1.TwoSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SharedHelper.cpp">
+    <ClCompile Include="69.Sqrt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

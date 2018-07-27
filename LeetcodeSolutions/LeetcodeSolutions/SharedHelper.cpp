@@ -14,3 +14,9 @@ CSharedHelper::PrintResult(vector<int> v) {
 	}
 	cout << ss.str();
 }
+
+//static
+void
+CSharedHelper::PrintResult(int v) {
+	cout << v << endl;
+}
