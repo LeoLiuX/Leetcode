@@ -27,16 +27,19 @@
     <ClCompile Include="69.Sqrt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="35.SearchInsertPosition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ProjectSettings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SharedHelper.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="CommonHeaders.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SharedHelper.h">
+      <Filter>Source Files\Helpers</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
