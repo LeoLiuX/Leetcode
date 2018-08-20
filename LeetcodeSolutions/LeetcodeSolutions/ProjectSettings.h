@@ -7,4 +7,4 @@
 /*
 **/
 
-#define	Q35
+#define	Q771
