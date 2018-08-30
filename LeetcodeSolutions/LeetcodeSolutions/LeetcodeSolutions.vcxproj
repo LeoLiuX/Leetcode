@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="35.SearchInsertPosition.cpp" />
+    <ClCompile Include="557.ReverseWordsInAStringIII.cpp" />
     <ClCompile Include="69.Sqrt.cpp" />
     <ClCompile Include="771.JewelsAndStones.cpp" />
     <ClCompile Include="SharedHelper.cpp" />

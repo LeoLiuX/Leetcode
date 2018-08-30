@@ -33,6 +33,9 @@
     <ClCompile Include="771.JewelsAndStones.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="557.ReverseWordsInAStringIII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ProjectSettings.h">

@@ -7,7 +7,8 @@ using namespace std;
 class  CSharedHelper
 {
 public:
-	static void PrintResult(vector<int> v);
-	static void PrintResult(int v);
+	static void PrintResult(vector<int> in);
+	static void PrintResult(int in);
+	static void PrintResult(string in);
 
 };
